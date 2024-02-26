@@ -1,0 +1,19 @@
+{
+  "name": "v-resize-xf",
+  "version": "0.0.2",
+  "description": "侦听dom元素大小变化的插件",
+  "main": "dist/v-resize-xf.umd.js",
+  "module": "dist/v-resize-xf.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build"
+  },
+  "keywords": ["vue3", "侦听元素大小"],
+  "author": "",
+  "files": ["dist", "index.d.ts"],
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^4.4.9",
+    "vue": "^3.3.4"
+  }
+}
